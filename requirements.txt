@@ -1,0 +1,13 @@
+# Core numerical and scientific libraries
+numpy
+torch
+scipy
+Pillow
+scikit-image
+
+# Web server and HTTP client libraries
+flask
+requests
+
+# Concrete ML for FHE-based operations
+concrete-ml
